@@ -1,5 +1,5 @@
 def add(x, y):
-    """This is an add3 function"""
+    """This is an add function (from gcp)"""
 
     return x + y
 
